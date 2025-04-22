@@ -1,6 +1,6 @@
 # SolcastDomoticz
 Solcast plugin for Domoticz
-Domoticz plugin to fetch [Solcast](https://[Solcast](https://toolkit.solcast.com.au/) data<br><br>
+Domoticz plugin to fetch [Solcast](https://toolkit.solcast.com.au/) data<br><br>
 
 Preliminary version, breaking changes to be expected!<br>
 reads forecasted solar power prediction for a given solar panel installation<br><br>
